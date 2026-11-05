@@ -1,0 +1,32 @@
+# Vision
+
+## Solana Music Rights Network (SMRN)
+
+The music industry still relies on opaque, slow, and fragmented systems for tracking plays and distributing royalties. Rights data is scattered, play reporting is incomplete (especially for radio, venues, and public performance), and payments often take months.
+
+SMRN aims to replace this with a transparent, real-time, on-chain network built on Solana.
+
+### Core Idea
+
+Anyone who participates in the music ecosystem — creators, rights holders, radio stations, venues, and node operators — opts into the network by minting a membership NFT. This NFT becomes their identity and access credential.
+
+Once inside the network:
+
+- Musical works and recordings are registered on-chain with industry-standard identifiers (**ISRC** and **ISWC**).
+- Authorized nodes detect and report plays.
+- A royalty engine automatically calculates and distributes payments according to the registered ownership splits.
+
+### Goals
+
+1. **Make membership explicit** — Clear on-chain identity and role for every participant.
+2. **Create a canonical rights registry** — Timestamped, queryable records of who owns what.
+3. **Capture real-world plays** — Especially from radio, venues, and public performance (areas that are currently under-reported).
+4. **Automate settlement** — Move from monthly/quarterly statements to near-instant, transparent payouts.
+5. **Align incentives** — Node operators are rewarded for accurate reporting; rights holders receive what they are owed.
+
+### What Success Looks Like
+
+- A radio station or venue can report plays with a simple node and get paid for the service.
+- A songwriter or label can see every verified play of their work and receive royalties without waiting for a traditional collection society statement.
+- Ownership and splits are public and auditable.
+- The system is open for anyone to join, with tiered participation based on role and contribution.
